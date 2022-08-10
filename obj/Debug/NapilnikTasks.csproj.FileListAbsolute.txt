@@ -1,0 +1,7 @@
+D:\Repository\Napilnik2\bin\Debug\NapilnikTasks.exe
+D:\Repository\Napilnik2\bin\Debug\NapilnikTasks.pdb
+D:\Repository\Napilnik2\obj\Debug\NapilnikTasks.csproj.AssemblyReference.cache
+D:\Repository\Napilnik2\obj\Debug\NapilnikTasks.csproj.SuggestedBindingRedirects.cache
+D:\Repository\Napilnik2\obj\Debug\NapilnikTasks.csproj.CoreCompileInputs.cache
+D:\Repository\Napilnik2\obj\Debug\NapilnikTasks.exe
+D:\Repository\Napilnik2\obj\Debug\NapilnikTasks.pdb
